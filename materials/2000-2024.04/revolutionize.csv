@@ -1,0 +1,27 @@
+"Search query: ((""revolutionize""[Text Word]) OR (""revolutionizes""[Text Word]) OR (""revolutionized""[Text Word]) OR (""revolutionizing""[Text Word])) AND ((""2000/01/01""[Date - Publication] : ""2024/04/30""[Date - Publication]))"
+Year,Count
+2024,2063
+2023,3862
+2022,2566
+2021,2551
+2020,2228
+2019,1757
+2018,1586
+2017,1376
+2016,1322
+2015,1131
+2014,1037
+2013,902
+2012,828
+2011,760
+2010,672
+2009,574
+2008,485
+2007,431
+2006,381
+2005,335
+2004,323
+2003,243
+2002,256
+2001,228
+2000,238

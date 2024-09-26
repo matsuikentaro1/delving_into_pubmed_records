@@ -1,0 +1,27 @@
+"Search query: ((""demystify""[Text Word]) OR (""demystifies""[Text Word]) OR (""demystified""[Text Word]) OR (""demystifying""[Text Word]) AND ((""1996""[Date - Publication] : ""2024""[Date - Publication]))) AND ((""2000/01/01""[Date - Publication] : ""2024/04/30""[Date - Publication]))"
+Year,Count
+2024,83
+2023,212
+2022,188
+2021,176
+2020,154
+2019,130
+2018,97
+2017,86
+2016,85
+2015,75
+2014,80
+2013,56
+2012,61
+2011,57
+2010,53
+2009,46
+2008,36
+2007,44
+2006,41
+2005,39
+2004,30
+2003,24
+2002,33
+2001,25
+2000,29

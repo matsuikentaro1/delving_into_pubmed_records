@@ -1,0 +1,27 @@
+"Search query: ((""be calculated""[Text Word]) OR (""is calculated""[Text Word]) OR (""are calculated""[Text Word]) OR (""was calculated""[Text Word]) OR (""were calculated""[Text Word]) OR (""being calculated""[Text Word])) AND ((""2000/01/01""[Date - Publication] : ""2024/04/30""[Date - Publication]))"
+Year,Count
+2024,12101
+2023,32299
+2022,34673
+2021,34242
+2020,30717
+2019,27041
+2018,25462
+2017,23960
+2016,22810
+2015,22160
+2014,20987
+2013,19391
+2012,17785
+2011,15666
+2010,13798
+2009,12371
+2008,11549
+2007,10539
+2006,9673
+2005,8638
+2004,7559
+2003,6885
+2002,6199
+2001,5827
+2000,5343

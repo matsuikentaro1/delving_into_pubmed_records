@@ -1,0 +1,27 @@
+"Search query: ((""harness""[Text Word]) OR (""harnesses""[Text Word]) OR (""harnessed""[Text Word]) OR (""harnessing""[Text Word]) AND ((""1996""[Date - Publication] : ""2024""[Date - Publication]))) AND ((""2000/01/01""[Date - Publication] : ""2024/04/30""[Date - Publication]))"
+Year,Count
+2024,2697
+2023,4612
+2022,3618
+2021,3587
+2020,2948
+2019,2285
+2018,2117
+2017,1870
+2016,1626
+2015,1468
+2014,1313
+2013,1097
+2012,979
+2011,793
+2010,660
+2009,573
+2008,508
+2007,441
+2006,385
+2005,351
+2004,275
+2003,205
+2002,179
+2001,156
+2000,134
