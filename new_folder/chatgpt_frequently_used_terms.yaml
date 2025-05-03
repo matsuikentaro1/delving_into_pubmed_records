@@ -1,134 +1,231 @@
-# ChatGPTがよく使う単語やフレーズ
-
-words:
+terms:
   - Accordingly
-  - Additionally
   - Adept
-  - Aims
+  - Additionally
+  - Aims to explore
+  - Akin
   - Aligns
+  - Alright
+  - Along with
+  - Also
+  - Although
+  - Amidst
+  - Amongst
+  - Analogies to being a conductor or to music
   - Arguably
+  - As a professional
+  - As an AI language model…
+  - As of my last knowledge update…
+  - As of my last...
+  - As previously mentioned
+  - As well as
+  - A testament to…
   - Augment
+  - Based on the information provided…
+  - Beacon
+  - Because
+  - Bolster
+  - Break barriers
+  - Bustling
+  - Camaraderie
+  - Cannot be overstated
   - Certainly
+  - Certainly, [here are / here is / here's]...
+  - Championing
   - Commendable
+  - Compelling
+  - Complexities
   - Comprehensive
   - Consequently
+  - Conversely
+  - Critical
   - Crucial
+  - Crucial role in shaping
+  - Crucible
+  - Cutting-edge
+  - Daunting
+  - Daunting task
+  - Deep + noun
+  - Dedication
+  - Deliver actionable insights through in-depth data analysis
   - Delve
+  - Delve into
+  - Delving into the intricacies of...
+  - Designed to enhance
+  - Despite
+  - Distress signal
+  - Dive
+  - Dive into…
+  - Diving
+  - Diverse
+  - Drive insightful data-driven decisions
+  - Due to
   - Dynamic
-  - Efficiency
+  - Effortlessly
   - Efficient
+  - Efficiency
+  - Elevate
   - Embark
+  - Embrace
+  - Empower
+  - Ensure
   - Enhance
+  - Enlightening
+  - Essential
+  - Essentially
+  - Even if
+  - Even though
+  - Everchanging
   - Ever-evolving
   - Excels
   - Exciting
   - Exemplary
+  - Exemplified
   - Explore
   - Facilitate
-  - Fast-paced
+  - Fancy
+  - Fear not
+  - Firstly
+  - Foster
   - Furthermore
+  - Game changer
+  - Generally
+  - Given that
+  - Grasp
+  - Harness
   - Hence
+  - Hey
+  - Highlights
+  - Hinder
   - However
+  - Hustle and bustle
+  - I do not have access to...
+  - I'm sorry, but as an AI Language Model, I cannot...
+  - I'm sorry, but I don't have access to...
+  - Imagine
+  - Implementation
+  - Importantly
+  - Important to consider…
+  - Important to note
+  - Important to understand
+  - Improve
+  - In conclusion…
+  - In contrast
+  - In order to
+  - In summary…
+  - In the realm of
+  - In the world of
+  - In today's digital age
+  - Indelible
   - Indeed
+  - Inform
   - Innovation
   - Innovative
   - Institution
   - Integration
-  - Implementation
+  - Interplay
+  - Intricacies
   - Intricate
   - Intriguing
   - Invaluable
+  - It is advisable
+  - It's essential to
+  - It’s important to note…
+  - It’s important to remember…
+  - It's worth noting that…
+  - Journey
+  - Keen
   - Landscape
+  - Leveraging
+  - Leveraging complex datasets to extract meaningful insights
+  - Leveraging data-driven insights
+  - Little did
+  - Mastering
   - Maximize
   - Meticulous
+  - Meticulously
+  - Metropolis
   - Moreover
-  - Navigate
+  - Multifaceted
+  - Navigate the landscape
+  - Navigating
+  - Navigating the [landscape]/[complexities of]
   - Nevertheless
   - Nonetheless
-  - Notable
+  - Not only
   - Notably
+  - Notable works include
   - Notwithstanding
+  - Noteworthy
+  - Nuanced
+  - Of my last knowledge update
+  - On the contrary…
+  - On the other hand
+  - Opportunity
   - Optimization
   - Pivotal
-  - Play a significant role
+  - Play a significant role in shaping
+  - Power
+  - Profound
+  - Profound + noun
+  - Quest
+  - Rapidly expanding
   - Realm
+  - Regenerate response
+  - Remember that…
+  - Require
+  - Resonates
+  - Reverberate
   - Revolutionize
   - Robust
+  - Schedule
   - Seamless
+  - Shall
+  - Shed light
   - Showcasing
+  - Significant
+  - Spearheaded
+  - Specifically
+  - Symphony
   - Synergistic
+  - Tailored
+  - Take a dive into
   - Tapestry
+  - Testament
+  - That being said
+  - The world of
   - Therefore
+  - There are a few considerations
   - Thought-provoking
   - Thus
+  - To consider
+  - To put it simply
+  - To summarize
+  - Today’s fast-paced world
+  - Towards
+  - Transcended
   - Transformation
   - Transformative
-  - Underscores
+  - Treasure trove
+  - Ultimately
   - Undoubtedly
+  - Understanding
+  - Underscore
+  - Underscores
+  - Unique blend
+  - Unless
+  - Unleash
+  - Unlock
+  - Unlock the secrets
+  - Unveil
+  - Unveil the secrets
+  - Unwavering
   - Utmost
   - Utilize
   - Vibrant
+  - Virtuoso
   - Vital
-
-phrases:
-  - "Absolutely..." # (段落の始まりとして)
-  - "A testament to…"
-  - "Aims to explore"
-  - "As an AI language model..."
-  - "As of my last knowledge update…"
-  - "As of my last..."
-  - "Based on my training..."
-  - "Based on the information provided…"
-  - "Certainly, [here are / here is / here's]..."
-  - "Deliver actionable insights through in-depth data analysis"
-  - "Delving into the intricacies of..."
-  - "Dive into…"
-  - "Drive insightful data-driven decisions"
-  - "Feel free to ask if you need further clarification."
-  - "From my understanding..."
-  - "Generally speaking..."
-  - "Here's what you need to know..."
-  - "I do not have access to..."
-  - "I hope this helps!"
-  - "I understand you're asking about..."
-  - "I'd be glad to assist you with this."
-  - "I'm happy to help with that!"
-  - "I'm sorry, but as an AI Language Model, I cannot..."
-  - "I'm sorry, but I don't have access to..."
-  - "Important to consider…"
-  - "In conclusion…"
-  - "In summary…"
-  - "In today's fast-paced world"
-  - "Is there anything else you'd like to know?"
-  - "It is important to note that…"
-  - "It's important to note that…"
-  - "It's important to remember…"
-  - "It's worth noting that…"
-  - "Let me explain..."
-  - "Let me know if you have any other questions."
-  - "Let's break this down..."
-  - "Leveraging data-driven insights"
-  - "Leveraging complex datasets to extract meaningful insights"
-  - "My training data..."
-  - "Navigate the landscape"
-  - "Navigating the [landscape]/[complexities of]"
-  - "Notable works include"
-  - "On the contrary…"
-  - "Play a significant role in shaping"
-  - "Regenerate response"
-  - "Remember that…"
-  - "Thank you for your question."
-  - "To address your question..."
-  - "To clarify..."
-  - "While I don't have personal experiences..."
-
-other_characteristics:
-  - 過度に複雑な文構造 (Overly complex sentence structures)
-  - 会話的またはカジュアルな文脈での異常にフォーマルなトーン、またはフォーマルな文脈での過度にカジュアルなトーン (An unusually formal tone in text that’s supposed to be conversational or casual — or, an overly casual tone for a text that’s supposed to be formal or business casual)
-  - 不必要に長く、冗長 (Unnecessarily long and wordy)
-  - 曖昧な表現 (Vague statements)
-  - 拡張された比喩（織物、料理、絵画、音楽など） (Extended Metaphors: Weaving, Cooking, Painting, Music)
-  - emダッシュの多用 (Distinct Punctuation Patterns: Frequent use of em dashes)
-  - トリコロン（3つの要素を並べる修辞技法）の多用 (Overuse of Tricolons)
-  - 定型的な結論 (Formulaic Conclusions suggesting reflection and future growth)
-  - 複数の結論 (Multiple Endings)
+  - When it comes to
+  - While
+  - Whimsical
+  - You may want to
