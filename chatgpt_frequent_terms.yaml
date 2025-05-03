@@ -1,0 +1,146 @@
+# ChatGPTがよく使う単語・フレーズ集
+# Redditユーザーや各種記事から収集した情報に基づく
+
+# 単語（品詞別）
+transitional_words:
+  - Accordingly
+  - Additionally
+  - Arguably
+  - Certainly
+  - Consequently
+  - Furthermore
+  - Hence
+  - However
+  - Indeed
+  - Moreover
+  - Nevertheless
+  - Nonetheless
+  - Notwithstanding
+  - Thus
+  - Undoubtedly
+  - Conversely
+  - Therefore
+
+adjectives:
+  - Adept
+  - Commendable
+  - Comprehensive
+  - Dynamic
+  - Efficient
+  - Essential
+  - Ever-evolving
+  - Exciting
+  - Exemplary
+  - Innovative
+  - Intricate
+  - Invaluable
+  - Pivotal
+  - Robust
+  - Seamless
+  - Synergistic
+  - Thought-provoking
+  - Transformative
+  - Utmost
+  - Vibrant
+  - Vital
+  - Crucial
+  - Daunting
+  - Profound
+  - Unwavering
+  - Meticulous
+
+nouns:
+  - Complexity
+  - Complexities
+  - Efficiency
+  - Innovation
+  - Institution
+  - Integration
+  - Implementation
+  - Landscape
+  - Optimization
+  - Realm
+  - Tapestry
+  - Transformation
+  - Testament
+  - Dedication
+  - Barriers
+
+verbs:
+  - Aligns
+  - Augment
+  - Delve
+  - Dive
+  - Embark
+  - Embrace
+  - Empower
+  - Enhance
+  - Ensure
+  - Excels
+  - Facilitate
+  - Foster
+  - Grasp
+  - Hinder
+  - Maximize
+  - Navigate
+  - Navigating
+  - Showcase
+  - Showcasing
+  - Tailor
+  - Tailored
+  - Underscores
+  - Unveil
+  - Utilize
+
+# フレーズ
+common_phrases:
+  - "A testament to..."
+  - "Along with"
+  - "Amidst"
+  - "As an AI language model..."
+  - "As of my last knowledge update..."
+  - "Based on the information provided..."
+  - "Break barriers"
+  - "Cannot be overstated"
+  - "Certainly, [here are / here is / here's]..."
+  - "Deep + noun"
+  - "Delve into..."
+  - "Delving into the intricacies of..."
+  - "Dive into..."
+  - "I do not have access to..."
+  - "I'm sorry, but as an AI Language Model, I cannot..."
+  - "I'm sorry, but I don't have access to..."
+  - "Important to consider..."
+  - "In conclusion..."
+  - "In summary..."
+  - "In today's fast-paced world"
+  - "It's important to note..."
+  - "It's important to remember..."
+  - "It's worth noting that..."
+  - "Navigating the [landscape]/[complexities of]"
+  - "Not only"
+  - "On the contrary..."
+  - "Play a significant role in shaping"
+  - "Profound + noun"
+  - "Regenerate response"
+  - "Remember that..."
+  - "The world of"
+  - "Towards"
+  - "Aims to explore"
+  - "Notable works include"
+
+# データ分析関連のフレーズ
+data_analysis_phrases:
+  - "Deliver actionable insights through in-depth data analysis"
+  - "Drive insightful data-driven decisions"
+  - "Leveraging data-driven insights"
+  - "Leveraging complex datasets to extract meaningful insights"
+
+# AIテキスト検出の手がかりとなる特徴
+detection_hints:
+  - 過度に複雑な文構造
+  - カジュアルな文脈での不自然に形式的なトーン
+  - 形式的な文脈での不自然にカジュアルなトーン
+  - 不必要に長く冗長な表現
+  - 曖昧で具体性に欠ける記述
+  - 副詞の過剰使用
