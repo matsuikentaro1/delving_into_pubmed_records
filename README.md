@@ -9,7 +9,6 @@ Repository Structure
   - merged_data.csv: The merged dataset used for analysis.
   - results_2000-2024_modified_z-score.csv: Modified Z-score calculations based on the 2000-2024 dataset.
   - output_plot_R1.png: A plot for Fig 2.
-  - modified-z-score_number-of-records.xlsx: Excel file containing modified Z-score calculations with number of records.
 - data/: Contains raw and processed data used in the analysis.
   - data_for_Figure1.csv: Data used to generate Fig 1.
   - data_for_linear_mixed_effects_model.csv: Data prepared for the linear mixed-effects model analysis.
