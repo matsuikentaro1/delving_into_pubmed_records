@@ -46,4 +46,4 @@ ggplot(data = data_summary, aes(x = Year, y = mean_usage, color = Group, fill = 
   theme(legend.position = "bottom")
 
 # Save the plot as a high-resolution PNG file in the "analysis" directory
-ggsave("analysis/output_plot.png", dpi = 300, width = 8, height = 6, units = "in")
+ggsave("analysis/output_plot_R1.png", dpi = 300, width = 8, height = 6, units = "in")

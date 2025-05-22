@@ -1,0 +1,27 @@
+"Search query: ((""be performed""[Text Word]) OR (""is performed""[Text Word]) OR (""are performed""[Text Word]) OR (""was performed""[Text Word]) OR (""were performed""[Text Word]) OR (""being performed""[Text Word])) AND ((""2000/01/01""[Date - Publication] : ""2024/12/31""[Date - Publication]))"
+Year,Count
+2024,134849
+2023,140560
+2022,150712
+2021,149373
+2020,134140
+2019,113462
+2018,105229
+2017,97783
+2016,94408
+2015,91848
+2014,86651
+2013,80182
+2012,73533
+2011,67330
+2010,60372
+2009,54836
+2008,51633
+2007,47622
+2006,44430
+2005,41182
+2004,36563
+2003,33701
+2002,30900
+2001,29592
+2000,27973

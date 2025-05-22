@@ -1,11 +1,10 @@
 Project: Delving into PubMed records
 
 Overview
-This repository contains the R code, data, and results used for the analysis in the study titled "Delving into PubMed records: some terms in medical writing have drastically changed after the arrival of ChatGPT." The goal of this project is to analyze trends in PubMed data between 2000 and 2024 using various statistical and predictive methods, including linear mixed-effects models and ARIMA modeling.
+This repository contains the R code, data, and results used for the analysis in the study titled "Delving into PubMed records: some terms in medical writing have drastically changed after the arrival of ChatGPT." The goal of this project is to analyze trends in PubMed data between 2000 and 2024 using various statistical and predictive methods, including linear mixed-effects models.
 
 Repository Structure
 - analysis/: Contains the R scripts and outputs related to the analysis.
-  - ARIMA_predictions_results.csv: Results of ARIMA model predictions.
   - FIG1_50_110.png: The upper part of Fig. 1
   - FIG1_-10_50.png: The lower part of Fig. 1
   - merged_data.csv: The merged dataset used for analysis.
@@ -25,7 +24,6 @@ To run the analysis, you will need the following dependencies:
   - ggplot2
   - dplyr
   - lme4 (for linear mixed-effects models)
-  - forecast (for ARIMA model)
   
 You can install the required packages by running the following command in R:
 install.packages(c("ggplot2", "dplyr", "forecast", "lme4"))
@@ -44,7 +42,7 @@ The data files are located in the data/ directory. These include:
 - UseRate_2000-2024.csv: Raw data detailing the use rate of certain terms in PubMed from 2000 to 2024.
 
 Results
-The results, including plots and calculated metrics (e.g., modified Z-scores, ARIMA predictions), are saved in the analysis/ directory. You can find figures and processed data outputs like results_2000-2024_modified_z-score.csv.
+The results, including plots and calculated metrics (e.g., modified Z-scores), are saved in the analysis/ directory. You can find figures and processed data outputs like results_2000-2024_modified_z-score.csv.
 
 License
 This repository is licensed under the MIT License. See the LICENSE file for more details.

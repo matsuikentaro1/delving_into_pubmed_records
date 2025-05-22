@@ -1,0 +1,27 @@
+"Search query: ((""be enrolled""[Text Word]) OR (""is enrolled""[Text Word]) OR (""are enrolled""[Text Word]) OR (""was enrolled""[Text Word]) OR (""were enrolled""[Text Word]) OR (""being enrolled""[Text Word])) AND ((""2000/01/01""[Date - Publication] : ""2024/12/31""[Date - Publication]))"
+Year,Count
+2024,21080
+2023,22392
+2022,24996
+2021,24497
+2020,21344
+2019,17966
+2018,16698
+2017,15254
+2016,14783
+2015,13786
+2014,12530
+2013,11608
+2012,10409
+2011,9073
+2010,7580
+2009,6680
+2008,5883
+2007,5382
+2006,4858
+2005,4172
+2004,3494
+2003,2953
+2002,2575
+2001,2302
+2000,1886

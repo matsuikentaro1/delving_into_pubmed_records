@@ -1,0 +1,27 @@
+"Search query: ((""be assessed""[Text Word]) OR (""is assessed""[Text Word]) OR (""are assessed""[Text Word]) OR (""was assessed""[Text Word]) OR (""were assessed""[Text Word]) OR (""being assessed""[Text Word])) AND ((""2000/01/01""[Date - Publication] : ""2024/12/31""[Date - Publication]))"
+Year,Count
+2024,79913
+2023,70366
+2022,74232
+2021,74708
+2020,66995
+2019,57849
+2018,54796
+2017,51940
+2016,49447
+2015,47405
+2014,44966
+2013,41636
+2012,37456
+2011,34000
+2010,29766
+2009,26655
+2008,24788
+2007,22455
+2006,19851
+2005,17841
+2004,15484
+2003,14115
+2002,12640
+2001,11854
+2000,11236

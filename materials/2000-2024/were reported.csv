@@ -1,0 +1,27 @@
+"Search query: ((""be reported""[Text Word]) OR (""is reported""[Text Word]) OR (""are reported""[Text Word]) OR (""was reported""[Text Word]) OR (""were reported""[Text Word]) OR (""being reported""[Text Word])) AND ((""2000/01/01""[Date - Publication] : ""2024/12/31""[Date - Publication]))"
+Year,Count
+2024,28238
+2023,30294
+2022,32666
+2021,33149
+2020,29889
+2019,25102
+2018,23498
+2017,21834
+2016,20742
+2015,19756
+2014,19053
+2013,17535
+2012,16323
+2011,15085
+2010,13733
+2009,12605
+2008,11589
+2007,10955
+2006,10508
+2005,9612
+2004,8729
+2003,7946
+2002,7427
+2001,7272
+2000,6702

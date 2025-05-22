@@ -6,7 +6,7 @@ library(purrr)
 library(tidyr)
 
 # CSVファイルがあるディレクトリ
-directory <- "C:/Users/30071/Dropbox/（進行中）/_①ChatGPT_frequent terms/2000-2024.04 - コピー"
+directory <- "materials/2000-2024"
 
 # ディレクトリ内の全CSVファイルをリストアップ
 file_list <- list.files(directory, pattern = "*.csv", full.names = TRUE)
@@ -34,4 +34,4 @@ merged_data <- lapply(file_list, function(file) {
 }) %>% reduce(full_join, by = "Year")  # 年をキーにしてフルジョイン
 
 # 結果をCSVファイルに保存
-write_csv(merged_data, "C:/Users/30071/Dropbox/（進行中）/_①ChatGPT_frequent terms/_merged_data.csv")
+write_csv(merged_data, "analysis/merged_data.csv")
